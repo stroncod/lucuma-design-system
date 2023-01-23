@@ -1,0 +1,16 @@
+{
+    "surface":{
+        "a": {"value":"#1e1e1e"},
+        "b": {"value":"#121212"},
+        "c": {"value":"rgba(255, 255, 255, 0.03)"},
+        "d": {"value":"#383838"},
+        "e": {"value":"#1e1e1e"},
+        "f": {"value":"#1e1e1e"},
+        "ground": {"value":"#121212"},
+        "section": {"value": "#121212"},
+        "card": {"value": "#1e1e1e"},
+        "overlay":{"value":"#1e1e1e"},
+        "border":{"value":"#1e1e1e"},
+        "hover": {"value":"#1e1e1e"}
+    }
+}

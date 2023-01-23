@@ -1,0 +1,9 @@
+{
+    "color":{
+        "text": {
+            "base": {"value":"rgba(255, 255, 255, 0.87)"},
+            "primary": {"value": "#212529"},
+            "secondary": {"value": "rgba(255, 255, 255, 0.87)"}
+        }
+    }
+}
